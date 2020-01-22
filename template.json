@@ -1,0 +1,5 @@
+{
+  "react-spa": "wandermean/react-backend-spa",
+  "react-mpa": "wandermean/react-backend-mpa",
+  "vue": "wandermean/vue-backend-mpa"
+}

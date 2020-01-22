@@ -1,0 +1,32 @@
+{
+  "name": "o2o-cli",
+  "version": "1.0.0",
+  "description": "o2o-webPages-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "o2o-web": "bin/o2o-webPages",
+    "o2o-web-add": "bin/o2o-webPages-add",
+    "o2o-web-del": "bin/o2o-webPages-del",
+    "o2o-web-init": "bin/o2o-webPages-init",
+    "o2o-web-ls": "bin/o2o-webPages-ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.cnsuning.com:smpnode/o2o-webPages-cli.git"
+  },
+  "keywords": [
+    "o2o-webPages-cli"
+  ],
+  "author": "18052224",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.0.1",
+    "ora": "^4.0.3"
+  }
+}

@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.cnsuning.com:smpnode/o2o-webPages-cli.git"
+    "url": "https://github.com/wandermean/o2o-cli.git"
   },
   "keywords": [
     "o2o-webPages-cli"
